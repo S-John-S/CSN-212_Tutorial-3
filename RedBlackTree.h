@@ -2,11 +2,11 @@
 #define E_REDBLACK_TREE
 
 
-#include"misc.h"
-#include"TemplateStack.H"
-#include<math.h>
-#include<limits.h>
-#include<iostream.h>
+#include "misc.h"
+#include "TemplateStack.H"
+#include <math.h>
+#include <limits.h>
+#include <iostream.h>
 
 //  CONVENTIONS:  
 //                Function names: Each word in a function name begins with 
