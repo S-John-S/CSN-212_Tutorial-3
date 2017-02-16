@@ -7,12 +7,12 @@
 #ifndef _INC_SETS_DOT_H
 #define _INC_SETS_DOT_H
 
-#include<stdio.h>
-#include<stdlib.h>
-#include<iostream.h>
-#include<strstream.h>
-#include<tcl.h>
-#include<ctype.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <iostream.h>
+#include <strstream.h>
+#include <tcl.h>
+#include <ctype.h>
 
 // **********************************************************************
 //
