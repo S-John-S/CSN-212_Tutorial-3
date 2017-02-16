@@ -19,7 +19,7 @@
     all the current regression tests and reports the results.
 
 
-  The minimum functions are listed as follows int he header files:-
+  The minimum functions are listed as follows in the header files:-
 
   Interval * DeleteNode(IntervalTreeNode *);
   IntervalTreeNode * Insert(Interval *);
