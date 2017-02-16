@@ -2,11 +2,11 @@
 #define E_INTERVAL_TREE
 
 
-#include"misc.h"
-#include"TemplateStack.H"
-#include<math.h>
-#include<limits.h>
-#include<iostream.h>
+#include "misc.h"
+#include "TemplateStack.H"
+#include <math.h>
+#include <limits.h>
+#include <iostream.h>
 
 //  The interval_tree.h and interval_tree.cc files contain code for 
 //  interval trees implemented using red-black-trees as described in 
