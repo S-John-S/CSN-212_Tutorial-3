@@ -1,9 +1,9 @@
 #ifndef E_TEMPLATE_STACK
 #define E_TEMPLATE_STACK
-#include <stdlib.h>
-#include <stdio.h>
+#include<stdlib.h>
+#include<stdio.h>
 #include "misc.h"
-#include <iostream.h>
+#include<iostream.h>
 
 #ifndef DEFAULT_INITIAL_SIZE
 #define DEFAULT_INITIAL_SIZE 16
